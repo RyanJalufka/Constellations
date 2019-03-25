@@ -1,10 +1,16 @@
 import React, { Component } from 'react';
+import Header from './components/Header';
+import MonthSelect from './containers/MonthSelect';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-      <h1>hello there :D</h1>
+      <Header />
+      <MonthSelect />
+      {/*
+      <ConstellationSelect />
+      <ConstellationCard />  */}
       </div>
     );
   }
