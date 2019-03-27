@@ -8,9 +8,9 @@ class ConstellationSelect extends Component {
 
   renderConstellationList = (month) => {
     let array = Constellations[`${month}`];
-  
+
     return _.map(array, data => {
-      return(
+      return (
         <li key={data.name} onClick={() => this.props.setCurrentConstellation(data)}>{data.name}</li>
       );
     });
@@ -18,11 +18,11 @@ class ConstellationSelect extends Component {
 
   render() {
 
-    return(
+    return (
       <div>
         {this.props.month.length === undefined ?
           <div>you don't have a month selected</div>
-        :
+          :
           <div>{this.renderConstellationList(this.props.month)}</div>
         }
       </div>
