@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { connect } from 'react-redux';
 import Select from "react-select";
 import { setCurrentMonth } from '../actions/monthAction';
+import ConstellationSelect from './ConstellationSelect';
 
 class MonthSelect extends Component {
 
@@ -26,17 +27,25 @@ class MonthSelect extends Component {
     ];
 
     return (
-      <div id="dropdown-console">
-        <div id="dropdown-box">
-          <p>Select a month:</p>    
-          <Select
-            options={months}
-            onChange={(opt) => this.handleChange(opt)}
-          />
-        </div>
+      <div>
+        <p>Select a month:</p>    
+        <Select
+          options={months}
+          onChange={(opt) => this.handleChange(opt)}
+        />
+        <ConstellationSelect />
       </div>
+      
     );
   }
+
 }
+
+// this.props.constellation.info
+
+
+// mapStateToProps {
+//   constellations: state.constellation;
+// }
 
 export default connect(null, { setCurrentMonth })(MonthSelect);
