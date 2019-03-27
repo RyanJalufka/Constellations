@@ -1,0 +1,115 @@
+{
+  "January": [
+    {"name": "Caelum", "translation": "The Sculptor's Chisel"},
+    {"name": "Dorado", "translation": "The Swordfish"},
+    {"name": "Mensa", "translation": "The Table Mountain"},
+    {"name": "Orion", "translation": "The Great Hunter"},
+    {"name": "Reticulum", "translation": "The Net"},
+    {"name": "Taurus", "translation": "The Bull"}
+ 
+  ],
+  "February": [
+    {"name": "Auriga", "translation": "The Charioteer"},
+    {"name": "Camelopardalis", "translation": "The Giraffe"},
+    {"name": "Canis Major", "translation": "The Greater Dog"},
+    {"name": "Columba", "translation": "The Dove"},
+    {"name": "Gemini", "translation": "The Twins"},
+    {"name": "Lepus", "translation": "The Hare"},
+    {"name": "Monoceros", "translation": "The Unicorn"},
+    {"name": "Pictor", "translation": "The Painter's Easel"}
+  ],
+  "March": [
+    {"name": "Cancer", "translation": ""},
+    {"name": "Canis Minor", "translation": ""},
+    {"name": "Carina", "translation": ""},
+    {"name": "Lynx", "translation": ""},
+    {"name": "Puppis", "translation": ""},
+    {"name": "Pyxis", "translation": ""},
+    {"name": "Vela", "translation": ""},
+    {"name": "Volans", "translation": ""}
+  ],
+ "April": [
+   {"name": "Antila", "translation": ""},
+   {"name": "Chamaeleon", "translation": ""},
+   {"name": "Crater", "translation": ""},
+   {"name": "Hydra", "translation": ""},
+   {"name": "Leo", "translation": ""},
+   {"name": "Leo Minor", "translation": ""},
+   {"name": "Sextans", "translation": ""},
+   {"name": "Ursa Major", "translation": ""}
+  ],
+ "May": [
+   {"name": "Canes Venatici", "translation": ""},
+   {"name": "Centaurus", "translation": ""},
+   {"name": "Coma Berenices", "translation": ""},
+   {"name": "Corvus", "translation": ""},
+   {"name": "Crux", "translation": ""},
+   {"name": "Musca", "translation": ""},
+   {"name": "Virgo", "translation": ""}
+  ],
+ "June": [
+   {"name": "Bootes", "translation": ""},
+   {"name": "Circinus", "translation": ""},
+   {"name": "Libra", "translation": ""},
+   {"name": "Lupus", "translation": ""},
+   {"name": "Ursa Minor", "translation": ""}
+  ],
+ "July": [
+   {"name": "Apus", "translation": ""},
+   {"name": "Ara", "translation": ""},
+   {"name": "Corona Borealis", "translation": ""},
+   {"name": "Draco", "translation": ""},
+   {"name": "Hercules", "translation": ""},
+   {"name": "Norma", "translation": ""},
+   {"name": "Ophiuchus", "translation": ""},
+   {"name": "Scorpius", "translation": ""},
+   {"name": "Serpens", "translation": ""},
+   {"name": "Triangulum Australe", "translation": ""}
+  ],
+ "August": [
+   {"name": "Corona Austrina", "translation": ""},
+   {"name": "Lyra", "translation": ""},
+   {"name": "Sagittarius", "translation": ""},
+   {"name": "Scutum", "translation": ""},
+   {"name": "Telescopium", "translation": ""}
+  ],
+ "September": [
+   {"name": "Aquila", "translation": ""},
+   {"name": "Capricornus", "translation": ""},
+   {"name": "Cygnus", "translation": ""},
+   {"name": "Delphinus", "translation": ""},
+   {"name": "Equuleus", "translation": ""},
+   {"name": "Indus", "translation": ""},
+   {"name": "Microscopium", "translation": ""},
+   {"name": "Pavo", "translation": ""},
+   {"name": "Sagitta", "translation": ""},
+   {"name": "Vulpecula", "translation": ""}
+  ],
+ "October": [
+   {"name": "Aquarius", "translation": ""},
+   {"name": "Cepheus", "translation": ""},
+   {"name": "Grus", "translation": ""},
+   {"name": "Lacerta", "translation": ""},
+   {"name": "Octans", "translation": ""},
+   {"name": "Pegasus", "translation": ""},
+   {"name": "Piscis Austrinus", "translation": ""}
+  ],
+ "November": [
+   {"name": "Andromeda", "translation": ""},
+   {"name": "Cassiopeia", "translation": ""},
+   {"name": "Phoenix", "translation": ""},
+   {"name": "Pisces", "translation": ""},
+   {"name": "Sculptor", "translation": ""},
+   {"name": "Tucana", "translation": ""}
+  ],
+ "December": [
+   {"name": "Aries", "translation": ""},
+   {"name": "Cetus", "translation": ""},
+   {"name": "Eridanus", "translation": ""},
+   {"name": "Fornax", "translation": ""},
+   {"name": "Horologium", "translation": ""},
+   {"name": "Hydrus", "translation": ""},
+   {"name": "Perseus", "translation": ""},
+   {"name": "Triangulum", "translation": ""}
+  ]
+ }
