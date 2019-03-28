@@ -21,7 +21,7 @@ class ConstellationSelect extends Component {
     return (
       <div>
         {this.props.month.length === undefined ?
-          <div>you don't have a month selected</div>
+          <div></div>
           :
           <div>{this.renderConstellationList(this.props.month)}</div>
         }

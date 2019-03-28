@@ -41,11 +41,4 @@ class MonthSelect extends Component {
 
 }
 
-// this.props.constellation.info
-
-
-// mapStateToProps {
-//   constellations: state.constellation;
-// }
-
 export default connect(null, { setCurrentMonth })(MonthSelect);
