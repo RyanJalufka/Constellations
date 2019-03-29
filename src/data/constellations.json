@@ -19,97 +19,97 @@
     {"name": "Pictor", "translation": "The Painter's Easel"}
   ],
   "March": [
-    {"name": "Cancer", "translation": ""},
-    {"name": "Canis Minor", "translation": ""},
-    {"name": "Carina", "translation": ""},
-    {"name": "Lynx", "translation": ""},
-    {"name": "Puppis", "translation": ""},
-    {"name": "Pyxis", "translation": ""},
-    {"name": "Vela", "translation": ""},
-    {"name": "Volans", "translation": ""}
+    {"name": "Cancer", "translation": "The Crab"},
+    {"name": "Canis Minor", "translation": "The Little Dog"},
+    {"name": "Carina", "translation": "The Keel"},
+    {"name": "Lynx", "translation": "The Lynx"},
+    {"name": "Puppis", "translation": "The Stern"},
+    {"name": "Pyxis", "translation": "The Compass"},
+    {"name": "Vela", "translation": "The Sails"},
+    {"name": "Volans", "translation": "The Flying Fish"}
   ],
  "April": [
-   {"name": "Antila", "translation": ""},
-   {"name": "Chamaeleon", "translation": ""},
-   {"name": "Crater", "translation": ""},
-   {"name": "Hydra", "translation": ""},
-   {"name": "Leo", "translation": ""},
-   {"name": "Leo Minor", "translation": ""},
-   {"name": "Sextans", "translation": ""},
-   {"name": "Ursa Major", "translation": ""}
+   {"name": "Antila", "translation": "The Air Pump"},
+   {"name": "Chamaeleon", "translation": "The Chameleon"},
+   {"name": "Crater", "translation": "The Cup"},
+   {"name": "Hydra", "translation": "The Sea Serpent"},
+   {"name": "Leo", "translation": "The Lion"},
+   {"name": "Leo Minor", "translation": "The Lion Cub"},
+   {"name": "Sextans", "translation": "The Sextant"},
+   {"name": "Ursa Major", "translation": "The Great Bear"}
   ],
  "May": [
-   {"name": "Canes Venatici", "translation": ""},
-   {"name": "Centaurus", "translation": ""},
-   {"name": "Coma Berenices", "translation": ""},
-   {"name": "Corvus", "translation": ""},
-   {"name": "Crux", "translation": ""},
-   {"name": "Musca", "translation": ""},
-   {"name": "Virgo", "translation": ""}
+   {"name": "Canes Venatici", "translation": "The Hunting Dogs"},
+   {"name": "Centaurus", "translation": "The Centaur"},
+   {"name": "Coma Berenices", "translation": "Berinice's Hair"},
+   {"name": "Corvus", "translation": "The Crow"},
+   {"name": "Crux", "translation": "The Southern Cross"},
+   {"name": "Musca", "translation": "The Fly"},
+   {"name": "Virgo", "translation": "The Maiden"}
   ],
  "June": [
-   {"name": "Bootes", "translation": ""},
-   {"name": "Circinus", "translation": ""},
-   {"name": "Libra", "translation": ""},
-   {"name": "Lupus", "translation": ""},
-   {"name": "Ursa Minor", "translation": ""}
+   {"name": "Bootes", "translation": "The Herdsman"},
+   {"name": "Circinus", "translation": "The Drawing Compass"},
+   {"name": "Libra", "translation": "The Scales"},
+   {"name": "Lupus", "translation": "The Wolf"},
+   {"name": "Ursa Minor", "translation": "The Little Bear"}
   ],
  "July": [
-   {"name": "Apus", "translation": ""},
-   {"name": "Ara", "translation": ""},
-   {"name": "Corona Borealis", "translation": ""},
-   {"name": "Draco", "translation": ""},
-   {"name": "Hercules", "translation": ""},
-   {"name": "Norma", "translation": ""},
-   {"name": "Ophiuchus", "translation": ""},
-   {"name": "Scorpius", "translation": ""},
-   {"name": "Serpens", "translation": ""},
-   {"name": "Triangulum Australe", "translation": ""}
+   {"name": "Apus", "translation": "The Bird of Paradise"},
+   {"name": "Ara", "translation": "The Altar"},
+   {"name": "Corona Borealis", "translation": "The Northern Crown"},
+   {"name": "Draco", "translation": "The Dragon"},
+   {"name": "Hercules", "translation": "The Strongman"},
+   {"name": "Norma", "translation": "The Carpenter's Square"},
+   {"name": "Ophiuchus", "translation": "The Snake Bearer"},
+   {"name": "Scorpius", "translation": "The Scorpion"},
+   {"name": "Serpens", "translation": "The Serpent"},
+   {"name": "Triangulum Australe", "translation": "The Southern Triangle"}
   ],
  "August": [
-   {"name": "Corona Austrina", "translation": ""},
-   {"name": "Lyra", "translation": ""},
-   {"name": "Sagittarius", "translation": ""},
-   {"name": "Scutum", "translation": ""},
-   {"name": "Telescopium", "translation": ""}
+   {"name": "Corona Austrina", "translation": "The Southern Crown"},
+   {"name": "Lyra", "translation": "The Lyre"},
+   {"name": "Sagittarius", "translation": "The Archer"},
+   {"name": "Scutum", "translation": "The Shield"},
+   {"name": "Telescopium", "translation": "The Telescope"}
   ],
  "September": [
-   {"name": "Aquila", "translation": ""},
-   {"name": "Capricornus", "translation": ""},
-   {"name": "Cygnus", "translation": ""},
-   {"name": "Delphinus", "translation": ""},
-   {"name": "Equuleus", "translation": ""},
-   {"name": "Indus", "translation": ""},
-   {"name": "Microscopium", "translation": ""},
-   {"name": "Pavo", "translation": ""},
-   {"name": "Sagitta", "translation": ""},
-   {"name": "Vulpecula", "translation": ""}
+   {"name": "Aquila", "translation": "The Eagle"},
+   {"name": "Capricornus", "translation": "The Sea Goat"},
+   {"name": "Cygnus", "translation": "The Swan"},
+   {"name": "Delphinus", "translation": "The Dolphin"},
+   {"name": "Equuleus", "translation": "The Little Horse"},
+   {"name": "Indus", "translation": "The Indian"},
+   {"name": "Microscopium", "translation": "The Microscope"},
+   {"name": "Pavo", "translation": "The Peacock"},
+   {"name": "Sagitta", "translation": "The Arrow"},
+   {"name": "Vulpecula", "translation": "The Fox"}
   ],
  "October": [
-   {"name": "Aquarius", "translation": ""},
-   {"name": "Cepheus", "translation": ""},
-   {"name": "Grus", "translation": ""},
-   {"name": "Lacerta", "translation": ""},
-   {"name": "Octans", "translation": ""},
-   {"name": "Pegasus", "translation": ""},
-   {"name": "Piscis Austrinus", "translation": ""}
+   {"name": "Aquarius", "translation": "The Water Bearer"},
+   {"name": "Cepheus", "translation": "The King"},
+   {"name": "Grus", "translation": "The Crane"},
+   {"name": "Lacerta", "translation": "The Lizard"},
+   {"name": "Octans", "translation": "The Octant"},
+   {"name": "Pegasus", "translation": "The Winged Horse"},
+   {"name": "Piscis Austrinus", "translation": "The Southern Fish"}
   ],
  "November": [
-   {"name": "Andromeda", "translation": ""},
-   {"name": "Cassiopeia", "translation": ""},
-   {"name": "Phoenix", "translation": ""},
-   {"name": "Pisces", "translation": ""},
-   {"name": "Sculptor", "translation": ""},
-   {"name": "Tucana", "translation": ""}
+   {"name": "Andromeda", "translation": "Princess of Ethiopia"},
+   {"name": "Cassiopeia", "translation": "Queen of Ethiopia"},
+   {"name": "Phoenix", "translation": "The Phoenix"},
+   {"name": "Pisces", "translation": "The Fishes"},
+   {"name": "Sculptor", "translation": "The Sculptor's Workshop"},
+   {"name": "Tucana", "translation": "The Toucan"}
   ],
  "December": [
-   {"name": "Aries", "translation": ""},
-   {"name": "Cetus", "translation": ""},
-   {"name": "Eridanus", "translation": ""},
-   {"name": "Fornax", "translation": ""},
-   {"name": "Horologium", "translation": ""},
-   {"name": "Hydrus", "translation": ""},
-   {"name": "Perseus", "translation": ""},
-   {"name": "Triangulum", "translation": ""}
+   {"name": "Aries", "translation": "The Ram"},
+   {"name": "Cetus", "translation": "The Sea Monster"},
+   {"name": "Eridanus", "translation": "The River"},
+   {"name": "Fornax", "translation": "The Laboratory Furnace"},
+   {"name": "Horologium", "translation": "The Pendulum Clock"},
+   {"name": "Hydrus", "translation": "The Southern Water Snake"},
+   {"name": "Perseus", "translation": "The Hero"},
+   {"name": "Triangulum", "translation": "The Triangle"}
   ]
  }
