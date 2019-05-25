@@ -1,14 +1,14 @@
 {
-  "main.css": "/kristiansaenz/ConstellationsUI/static/css/main.86b093e3.chunk.css",
-  "main.js": "/kristiansaenz/ConstellationsUI/static/js/main.b0ba1153.chunk.js",
-  "main.js.map": "/kristiansaenz/ConstellationsUI/static/js/main.b0ba1153.chunk.js.map",
-  "runtime~main.js": "/kristiansaenz/ConstellationsUI/static/js/runtime~main.f991c450.js",
-  "runtime~main.js.map": "/kristiansaenz/ConstellationsUI/static/js/runtime~main.f991c450.js.map",
-  "static/js/2.8481bf1f.chunk.js": "/kristiansaenz/ConstellationsUI/static/js/2.8481bf1f.chunk.js",
-  "static/js/2.8481bf1f.chunk.js.map": "/kristiansaenz/ConstellationsUI/static/js/2.8481bf1f.chunk.js.map",
-  "index.html": "/kristiansaenz/ConstellationsUI/index.html",
-  "precache-manifest.e8d47d0ad00ce0cce760d4d3610d12b0.js": "/kristiansaenz/ConstellationsUI/precache-manifest.e8d47d0ad00ce0cce760d4d3610d12b0.js",
-  "service-worker.js": "/kristiansaenz/ConstellationsUI/service-worker.js",
-  "static/css/main.86b093e3.chunk.css.map": "/kristiansaenz/ConstellationsUI/static/css/main.86b093e3.chunk.css.map",
-  "static/media/staticStars.svg": "/kristiansaenz/ConstellationsUI/static/media/staticStars.1f560c45.svg"
+  "main.css": "/RyanJalufka/Constellations/static/css/main.86b093e3.chunk.css",
+  "main.js": "/RyanJalufka/Constellations/static/js/main.b0ba1153.chunk.js",
+  "main.js.map": "/RyanJalufka/Constellations/static/js/main.b0ba1153.chunk.js.map",
+  "runtime~main.js": "/RyanJalufka/Constellations/static/js/runtime~main.e6835ab5.js",
+  "runtime~main.js.map": "/RyanJalufka/Constellations/static/js/runtime~main.e6835ab5.js.map",
+  "static/js/2.8481bf1f.chunk.js": "/RyanJalufka/Constellations/static/js/2.8481bf1f.chunk.js",
+  "static/js/2.8481bf1f.chunk.js.map": "/RyanJalufka/Constellations/static/js/2.8481bf1f.chunk.js.map",
+  "index.html": "/RyanJalufka/Constellations/index.html",
+  "precache-manifest.d8f3c72db0c6e94b1432ef5e0248ba3f.js": "/RyanJalufka/Constellations/precache-manifest.d8f3c72db0c6e94b1432ef5e0248ba3f.js",
+  "service-worker.js": "/RyanJalufka/Constellations/service-worker.js",
+  "static/css/main.86b093e3.chunk.css.map": "/RyanJalufka/Constellations/static/css/main.86b093e3.chunk.css.map",
+  "static/media/staticStars.svg": "/RyanJalufka/Constellations/static/media/staticStars.1f560c45.svg"
 }
