@@ -3,6 +3,7 @@ import { connect } from 'react-redux';
 import _ from 'lodash';
 import Constellations from '../data/constellations.json';
 import { setCurrentConstellation } from '../actions/constellationAction';
+import ListGroup from 'react-bootstrap/ListGroup';
 
 class ConstellationSelect extends Component {
 
@@ -11,19 +12,20 @@ class ConstellationSelect extends Component {
 
     return _.map(array, data => {
       return (
-        <li key={data.name} onClick={() => this.props.setCurrentConstellation(data)}>{data.name}</li>
+        <ListGroup.Item key={data.name} onClick={() => this.props.setCurrentConstellation(data)}>{data.name}</ListGroup.Item>
       );
     });
   }
 
   render() {
-
     return (
       <div>
         {this.props.month.length === undefined ?
           <div></div>
           :
-          <div>{this.renderConstellationList(this.props.month)}</div>
+          <div className='list-group'>
+          <ListGroup>{this.renderConstellationList(this.props.month)}</ListGroup>
+          </div>
         }
       </div>
     );
