@@ -1,14 +1,14 @@
 {
-  "main.css": "/RyanJalufka/Constellations/static/css/main.86b093e3.chunk.css",
-  "main.js": "/RyanJalufka/Constellations/static/js/main.b0ba1153.chunk.js",
-  "main.js.map": "/RyanJalufka/Constellations/static/js/main.b0ba1153.chunk.js.map",
-  "runtime~main.js": "/RyanJalufka/Constellations/static/js/runtime~main.e6835ab5.js",
-  "runtime~main.js.map": "/RyanJalufka/Constellations/static/js/runtime~main.e6835ab5.js.map",
-  "static/js/2.8481bf1f.chunk.js": "/RyanJalufka/Constellations/static/js/2.8481bf1f.chunk.js",
-  "static/js/2.8481bf1f.chunk.js.map": "/RyanJalufka/Constellations/static/js/2.8481bf1f.chunk.js.map",
-  "index.html": "/RyanJalufka/Constellations/index.html",
-  "precache-manifest.d8f3c72db0c6e94b1432ef5e0248ba3f.js": "/RyanJalufka/Constellations/precache-manifest.d8f3c72db0c6e94b1432ef5e0248ba3f.js",
-  "service-worker.js": "/RyanJalufka/Constellations/service-worker.js",
-  "static/css/main.86b093e3.chunk.css.map": "/RyanJalufka/Constellations/static/css/main.86b093e3.chunk.css.map",
-  "static/media/staticStars.svg": "/RyanJalufka/Constellations/static/media/staticStars.1f560c45.svg"
+  "main.css": "/Constellations/static/css/main.86b093e3.chunk.css",
+  "main.js": "/Constellations/static/js/main.b0ba1153.chunk.js",
+  "main.js.map": "/Constellations/static/js/main.b0ba1153.chunk.js.map",
+  "runtime~main.js": "/Constellations/static/js/runtime~main.05959153.js",
+  "runtime~main.js.map": "/Constellations/static/js/runtime~main.05959153.js.map",
+  "static/js/2.8481bf1f.chunk.js": "/Constellations/static/js/2.8481bf1f.chunk.js",
+  "static/js/2.8481bf1f.chunk.js.map": "/Constellations/static/js/2.8481bf1f.chunk.js.map",
+  "index.html": "/Constellations/index.html",
+  "precache-manifest.c9a64e33cd4fd3306cd9db7727d26f0d.js": "/Constellations/precache-manifest.c9a64e33cd4fd3306cd9db7727d26f0d.js",
+  "service-worker.js": "/Constellations/service-worker.js",
+  "static/css/main.86b093e3.chunk.css.map": "/Constellations/static/css/main.86b093e3.chunk.css.map",
+  "static/media/staticStars.svg": "/Constellations/static/media/staticStars.1f560c45.svg"
 }

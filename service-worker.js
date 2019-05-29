@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/RyanJalufka/Constellations/precache-manifest.d8f3c72db0c6e94b1432ef5e0248ba3f.js"
+  "/Constellations/precache-manifest.c9a64e33cd4fd3306cd9db7727d26f0d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/RyanJalufka/Constellations/index.html", {
+workbox.routing.registerNavigationRoute("/Constellations/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
