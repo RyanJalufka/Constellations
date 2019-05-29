@@ -27,12 +27,14 @@ class MonthSelect extends Component {
     ];
 
     return (
-      <div>
-        <p>Select a month:</p>    
-        <Select
-          options={months}
-          onChange={(opt) => this.handleChange(opt)}
-        />
+      <div className='left'>
+        <div className='menu'>
+          <p>Select a month:</p>  
+          <Select
+            options={months}
+            onChange={(opt) => this.handleChange(opt)}
+          />
+        </div>
         <ConstellationSelect />
       </div>
       

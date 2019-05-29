@@ -1,0 +1,189 @@
+/***********************************
+* App Style Sheet: main wrapper
+*
+* Responsive Layout Tips:
+* for Font: use em or rem
+* for Layout: use vh or %
+************************************/
+
+/*#root{
+    background-image: linear-gradient(-180deg, #0B0B10 0%, #0F056C 100%); 
+}*/
+
+*, :after, :before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Create the grid for main layout */
+.app {
+    /*display: grid;
+    grid-template:
+    'header header'
+    'left right'
+    'footer footer';*/
+    background-image: linear-gradient(-180deg, #0B0B10 0%, #0F056C 100%);
+    padding: 5vh;
+    height: 100vh;
+}
+
+/*.header { 
+    grid-area: header; 
+    font-size: 1.15em;
+    color: white;
+    font-family: Cinzel-Regular;
+    margin: 1vh 5vh 10vh 5vh;
+    }
+
+.left { 
+    grid-area: left;
+    padding: 1rem;
+    display: grid;
+    grid-column: auto auto; 
+    margin-left: 8%;
+    width: 30rem;
+}
+
+.right { 
+    grid-area: right;
+    margin-right: 10%;
+}
+
+.footer { 
+    grid-area: footer;
+    padding: 1rem;
+    color: white;
+}*/
+
+/* Create the grid for main layout */
+/*.app {
+    display: grid;
+    grid-template:
+    'header header'
+    'left right'
+    'footer footer';
+    background-image: linear-gradient(-180deg, #0B0B10 0%, #0F056C 100%);
+    padding: 5vh;
+    height: 100vh;
+}*/
+
+/* Constellation Select */
+
+/*.menu {
+    color: white;
+}
+
+.css-vj8t7z {
+    background-color: transparent;
+    color: white;
+}
+
+.css-15k3avv {
+    background-color: black;
+}
+
+.list-group {
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 50vh;
+    padding-left: 0;
+    margin: 3vh 0;
+    color: #CFCFCF;
+    font-family: Cinzel-Regular;
+    font-size: 1rem;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    line-height: 2.5rem;
+}
+
+.list-group-item:last-child {
+    margin-bottom: 0;
+    border-bottom-right-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+}
+
+.list-group-item:hover {
+    font-size: 2rem;
+}*/
+
+/* Constellation Card */
+/*.constellation {
+    height: 100%;*/
+    /* border: 1px solid #deebff;     */
+    /* background-color: #141131; */
+    /*color: #CFCFCF;
+}*/
+
+/*.card {
+    margin: auto;
+    padding: 10% 0;
+}
+
+.path {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: dash 5s linear forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.card-img-top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2rem;    
+}
+
+.card-title {
+    text-align: center;   
+    margin-bottom: .25rem; 
+    font-family: Cinzel-Regular;
+    font-size: 3.5rem;
+}
+
+.card-subtitle {
+    text-align: center;   
+    font-family: Lato-Light;
+    font-size: 1.5rem;
+    margin: 1vh 0 2vh;}
+
+.card-text {
+    text-align: center;   
+    font-family: Lato-Light;
+    font-size: 1rem;
+}*/
+
+#header {
+    color: white;
+}
+
+#footer {
+    color: white;
+}
+
+.card-img-top {
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+}
+
+
+
