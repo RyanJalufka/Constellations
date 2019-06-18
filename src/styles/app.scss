@@ -1,0 +1,47 @@
+/***********************************
+* App Style Sheet: main wrapper
+*
+* Responsive Layout Tips:
+* for Font: use em or rem
+* for Layout: use vh or %
+*
+* You always want to select by class,
+* not Ids (thats for js).
+************************************/
+
+$text-color: white;
+$card-text-color: black;
+
+
+// *, :after, :before {
+//     box-sizing: border-box;
+//     margin: 0;
+//     padding: 0;
+// }
+
+.app {
+    background-image: linear-gradient(-180deg, #0B0B10 0%, #0F056C 100%);
+}
+
+p {
+    color: $text-color;
+}
+
+h1 {
+    color: $text-color;
+}
+
+.constellation p {
+    color: $card-text-color;
+}
+
+.card-img-top {
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+}
+
+
+

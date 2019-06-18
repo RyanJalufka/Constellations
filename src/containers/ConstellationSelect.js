@@ -23,7 +23,7 @@ class ConstellationSelect extends Component {
         {this.props.month.length === undefined ?
           <div></div>
           :
-          <div className='list-group'>
+          <div className="list-group">
           <ListGroup>{this.renderConstellationList(this.props.month)}</ListGroup>
           </div>
         }

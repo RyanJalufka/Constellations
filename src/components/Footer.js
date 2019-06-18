@@ -1,12 +1,12 @@
 import React from 'react';
-import '../styles/app.css';
+import '../styles/app.scss';
 
 
 function Footer() {
     return(
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div id='footer'>
+                <div class="col">
                     <p><i>Created by Ryan and Kristian</i></p>
                 </div>
             </div>

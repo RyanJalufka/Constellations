@@ -3,7 +3,7 @@ import Header from './components/Header';
 import MonthSelect from './containers/MonthSelect';
 import ConstellationCard from './containers/ConstellationCard';
 import Footer from './components/Footer';
-import './styles/app.css';
+import './styles/app.scss';
 
 class App extends Component {
   render() {
