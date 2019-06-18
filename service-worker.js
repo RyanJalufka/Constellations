@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Constellations/precache-manifest.c9a64e33cd4fd3306cd9db7727d26f0d.js"
+  "/Constellations/precache-manifest.2bdcef3bb4ffebc327f781398d9fc28c.js"
 );
 
 workbox.clientsClaim();
